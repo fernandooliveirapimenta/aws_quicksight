@@ -1,0 +1,11 @@
+Interativo SQL exploracao / visualizacao dos dados
+Dashboards e KPIs
+
+Historias
+	
+Analizar dados de:
+Logs S3
+Banco de dados on-premise
+AWS(RDS, Redshift, Athena, S3)
+SaaS ex? Salesforce
+JDBC/ODBC

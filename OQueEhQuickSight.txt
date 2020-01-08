@@ -1,0 +1,29 @@
+Rapido, facil, cloud, bi
+Permite qualquer empregado na organizacao
+
+Construir visualizacoes
+Executar SQL analytics
+Qualquer momento, em qualquer dispositivo
+
+Serverless
+
+Data sources:
+Redshift
+Aurora / RDS
+Athena
+EC2 - banco de dados instalado
+
+Arquivos (S3 ou on-premise
+Excel
+CSV, TSV
+Preparacao de dados permiter ETL limitados
+
+Spice (especiaria)
+
+Data sets sao importados em uma spice
+	- super rapido, paralelo, engine de calculo em memoria 
+	- usa colunar storage 
+	- acelera pesquisas interativas em grandes datasets
+Cada usuario tem 10G de spice
+Altamente disponivel duravel
+Scala para milhares de usuarios
